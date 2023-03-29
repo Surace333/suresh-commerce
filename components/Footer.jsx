@@ -7,7 +7,7 @@ const Footer = () =>
     return(
         <div className="footer-container">
 
-<p>2023 Jsm headphones All rights are reserved</p>
+<p>2023 Suresh headphones All rights are reserved</p>
 <p className="icons">
 <AiFillInstagram/>
 <AiOutlineTwitter/>
